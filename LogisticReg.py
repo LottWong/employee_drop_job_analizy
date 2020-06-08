@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Author:wdd
-Email:546501664@qq.com
+Author:lott
+Email:
 ===========================================
 LogisticRegression...
 ===========================================
